@@ -14,10 +14,12 @@ img {
   max-width: 100%; }
 
 a {
-  color: #0074D9; }
+  color: #0074D9;
+}
 
 h1, h2, strong {
-  color: #111; }
+  color: #111;
+}
 
 h1 {
   font-size: 1.6em; }
@@ -38,4 +40,12 @@ h3 {
 hr {
   border: 0px;
   border: 1px solid #eee; 
+}
+
+table a {
+  color: black;
+}
+
+table a :hover {
+  color: #0074D9;
 }

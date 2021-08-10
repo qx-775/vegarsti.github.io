@@ -13,24 +13,11 @@ My email is <code>vegard.stikbakke@gmail.com</code>, don't hesitate to say hi!
 
 <table>
   <tr>
-    <td><i class="fab fa-github" aria-hidden="true"></i></td>
-    <td>&nbsp;<a href="https://github.com/vegarsti">GitHub</a></td> 
-  </tr>
-  <tr>
-    <td><i class="fab fa-twitter" aria-hidden="true"></i></td>
-    <td>&nbsp;<a href="https://twitter.com/vegardstikbakke">Twitter</a></td> 
-  </tr>
-  <tr>
-    <td><i class="fab fa-goodreads" aria-hidden="true"></i></td>
-    <td>&nbsp;<a href="https://www.goodreads.com/user/show/3400170-vegard-stikbakke">Goodreads</a></td> 
-  </tr>
-  <tr>
-    <td><i class="fab fa-linkedin" aria-hidden="true"></i></td>
-    <td>&nbsp;<a href="https://linkedin.com/in/vegardstikbakke">LinkedIn</a></td> 
-  </tr>
-  <tr>
-    <td><i class="fas fa-file-alt" aria-hidden="true"></i></td>
-    <td>&nbsp;<a href="assets/pdf/Resume.pdf">Resume</a></td> 
+    <td><a href="https://github.com/vegarsti"><i class="fab fa-github" aria-hidden="true"></i></a></td>
+    <td><a href="https://twitter.com/vegardstikbakke"><i class="fab fa-twitter" aria-hidden="true"></i></a></td>
+    <td><a href="https://www.goodreads.com/user/show/3400170-vegard-stikbakke"><i class="fab fa-goodreads" aria-hidden="true"></i></a></td>
+    <td><a href="https://linkedin.com/in/vegardstikbakke"><i class="fab fa-linkedin" aria-hidden="true"></i></a></td>
+    <td><a href="assets/pdf/Resume.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i></a></td>
   </tr>
 </table>
 
