@@ -6,10 +6,10 @@ title: Vegard Stikbakke
 # Vegard Stikbakke
 
 I'm a software engineer from Norway.
-I work at [Dune Analytics](https://duneanalytics.com/) and
-I studied statistics and computer science at the University of Oslo.
+I work at [Dune Analytics](https://duneanalytics.com/) and I studied statistics and computer science at the University of Oslo.
 
 My email is <code>vegard.stikbakke@gmail.com</code>, don't hesitate to say hi!
+My resume is [here](assets/pdf/Resume.pdf).
 
 <table>
   <tr>
